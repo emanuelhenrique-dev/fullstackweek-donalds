@@ -31,7 +31,7 @@
 
 Projeto produzido na semana Full Stack Week, fazendo um app de compra de lanches online, com um carrinho e lista de pedidos salvos em um banco de dados.
 
-[Ver Projeto](https://music-player-react-amber.vercel.app/)
+[Ver Projeto](https://fullstackweek-donalds-rho.vercel.app/fsw-donalds)
 
 ## 🚀 Tecnologias
 
